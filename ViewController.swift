@@ -60,3 +60,9 @@ extension ViewController: UITextFieldDelegate {
     }
 }
 
+func testEdit() {
+	if responseTo(question: "Quel est le secret de l'univers ?") {
+		print("42")
+	}
+}
+
