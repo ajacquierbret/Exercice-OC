@@ -1,2 +1,2 @@
 Présentation du projet :
-Création d'une application iOS en Swift avec Xcode et un site en HTML/CSS/JS. Mises à jour chaque jour (ou deux fois par jour) par le biais de Git et GitHub.
+Créer/modifier un ChatBot, capable de faire varier ses réponses en fonction des données saisies par l'utilisateur. S'entraîner à la rédaction de fonctions Swift sur XCode.
