@@ -18,7 +18,7 @@ struct MyQuestionAnswerer {
                 return "Je ne sais pas quoi vous dire"
             }
             else {
-                return "La vie est pleine de surprises..."
+                return "La vie est pleine de surprises... Et je ne sais pas quoi vous dire dans ces cas-là, désolé.."
             }
         }
     }
